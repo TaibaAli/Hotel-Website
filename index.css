@@ -58,3 +58,15 @@ nav{
 body{
 	background:rgba(247, 120, 120, 0.801)
 }
+.column {
+	width: 30%;
+	  float: left;
+	  padding: 1px;
+	  height: 300px;
+	  border: 20px;
+}
+.row{
+      content: "";
+	  display: table;
+	  clear: both;
+}
